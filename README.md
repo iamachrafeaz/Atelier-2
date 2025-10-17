@@ -217,8 +217,6 @@ mvn clean install
 
 ## Screenshots
 
-## Screenshots
-
 ### Home Page
 ![Home Page](./screenshots/homePage.png)  
 _The default home page before login._
